@@ -1,0 +1,13 @@
+1 - Copie o mueva la carpeta EDITOR-TEXTO a su servidor local o remoto
+
+2 - Abra el archivo main.py con su editor de código favorito.
+
+3 - En caso de que no funcione, cambie las rutas de los archivos correspondientes:
+
+	bold.png
+	italic.png
+	underline.png
+	font_color.png
+	center.png
+	left.png
+	right.png
